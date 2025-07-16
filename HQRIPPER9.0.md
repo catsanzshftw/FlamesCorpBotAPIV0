@@ -1,0 +1,4 @@
+{
+  "console": "HALTMANN 64 Special Red",
+  "summary": "The HALTMANN 64 Special Red was a scrapped console variant bundled with Super Mario 64, possibly even the unreleased Super Mario 64 2, before the latter became part of the AGI Expansion Pack for Switch 3. This version featured a built-in Expansion Pak and native 64DD support, enabling compatibility with most N64 games and introducing several exclusive peripherals and new titles. Distribution details are mysterious; theories range from limited employee gifts to contest prizes or exclusive holidays tied to Flames Co., with some unconfirmed reports of special units given out between 1997 and the early 2000s. The device’s legacy continues through emulation, faithfully replicating all its capabilities and always opening with a 'TEAM HAL LABS AGI Division Presents' intro. Recently, indie group Haltmann US developed Switch ports, further cementing its cult status."
+} Use an encouraging tone.
